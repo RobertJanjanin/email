@@ -1,0 +1,9 @@
+C:\Users\ilymi\source\repos\email\email\bin\Debug\email.exe.config
+C:\Users\ilymi\source\repos\email\email\bin\Debug\email.exe
+C:\Users\ilymi\source\repos\email\email\bin\Debug\email.pdb
+C:\Users\ilymi\source\repos\email\email\obj\Debug\email.Form1.resources
+C:\Users\ilymi\source\repos\email\email\obj\Debug\email.Properties.Resources.resources
+C:\Users\ilymi\source\repos\email\email\obj\Debug\email.csproj.GenerateResource.cache
+C:\Users\ilymi\source\repos\email\email\obj\Debug\email.csproj.CoreCompileInputs.cache
+C:\Users\ilymi\source\repos\email\email\obj\Debug\email.exe
+C:\Users\ilymi\source\repos\email\email\obj\Debug\email.pdb
